@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**purvii-29/purvii-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Purvi!!
+
+
+## 🚀 About Me
+I'm a student learning front-end development :)
+
+
+
+
+
+## 🛠 Skills
+HTML, CSS, JavaScript, C, Kotlin, Python
+
+
+## 🔗 Links
+[![linkedin](https://www.linkedin.com/in/purvi-kalpeshkumar-pandey-42ba18332/)](https://www.linkedin.com/)
+[![X](https://x.com/PurviPande53488)](https://x.com/)
+
